@@ -1,0 +1,1 @@
+That file stay in newBranch
